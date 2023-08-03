@@ -187,3 +187,9 @@ ixiguavideo.com
 ixgvideo.com
 bdxiguaimg.com
 bdxiguastatic.com
+hotstar.com
+hotstar-cdn.net
+hotstar-labs.com
+hotstarext.com
+hsprepack.akamaized.net
+akamaized.net
